@@ -5,6 +5,7 @@
     let frombrancTest;
         let frombrancTest2;
     let commit1;
+    let commit2;
 
 
     let to_do_liste = ref(false);
