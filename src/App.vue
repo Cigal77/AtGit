@@ -3,11 +3,8 @@
     import {ref} from 'vue';
    
     let frombrancTest;
-<<<<<<< HEAD
     let conflictLocal;
-=======
     let conflict;
->>>>>>> 7dda77cc3271bfaa5281814edc39798cd47c7061
 
     let to_do_liste = ref(false);
     let fait = ref(["fait1", "fait2", "fait3"])
